@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Monex Tracker - Monthly Expenses Manager
 
 Monex Tracker is a modern, user-friendly Flutter application designed to help users efficiently track, manage, and analyze their monthly expenses. The name "Monex" is derived from "Monthly Expenses", representing the core purpose of the app.
@@ -19,12 +20,4 @@ Trackizer is a sleek Flutter-based application that enables users to visualize, 
 - Carousel view of recent transactions for quick insights  
 - Calendar-based agenda for organizing and tracking daily expenses  
 - Customizable spending categories and visual themes  
-- Persistent local data storage with scope for cloud integration  
-
-## Getting Started
-
-Follow the steps below to clone and run the application locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/varun615242/monex-tracker.git
+- Persistent local data storage with scope for cloud integration
